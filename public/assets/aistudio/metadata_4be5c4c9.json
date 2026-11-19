@@ -1,0 +1,6 @@
+{
+  "name": "Narx",
+  "description": "O'zbekistondagi kichik savdogarlar uchun Telegram do'kon katalogi va avtomatik buyurtma yig'ish platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
